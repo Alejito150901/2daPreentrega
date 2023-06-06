@@ -126,7 +126,7 @@ footer .items1 a:hover {
   border-radius: 5px; }
 
 .body2 {
-  background-image: url(/img/Inglaterra.jpg); }
+  background-image: url(../img/Inglaterra.jpg); }
   .body2 .header2 {
     display: flex;
     justify-content: center;
