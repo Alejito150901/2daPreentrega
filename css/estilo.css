@@ -133,13 +133,13 @@ footer .items1 a:hover {
     align-content: center;
     margin-top: 20px;
     padding: 20px;
-    color: white; }
+    color: black; }
 
 main .form2 {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: white; }
+  color: black; }
 
 footer .barra2 {
   padding: 20px;
@@ -154,7 +154,7 @@ footer .barra2 {
       margin: 0 60px 0 0;
       padding: 3px 8px 3px 8px;
       color: coral;
-      background-color: white;
+      background-color: #ffac68;
       border: 1px solid white;
       border-radius: 10px;
       text-decoration: none;
